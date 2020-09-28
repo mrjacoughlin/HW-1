@@ -1,0 +1,16 @@
+.header {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  place-content: center;
+  text-align: center;
+}
+.wrapper {
+  width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+}
+.search-engine-optimization {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  font-weight: bold;
+}
