@@ -1,3 +1,7 @@
-### Horiseon Marketing Tool
+## Horiseon Marketing Tool
 
-## This first project, we created a marketing tool that utilizes SEO Search Engine Optimization, Online Reputation Management and Social Media marketing.
+### This first project, we created a marketing tool that utilizes SEO Search Engine Optimization, Online Reputation Management and Social Media marketing.
+
+---
+
+### Utilizing HTML & CSS
